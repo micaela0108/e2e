@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "uri": "https://www.infobae.com/america/",
+        "active": 1,
+        "file": "america.png"
+    },
+    {
+        "id": 2,
+        "uri": "https://www.gotrendier.com.co/",
+        "active": 1,
+        "file": "trendier.png"
+    },
+    {
+        "id": 3,
+        "uri": "https://www.vinted.es/",
+        "active": 1,
+        "file": "vinted.png"
+    },
+    {
+        "id": 4,
+        "uri": "https://www.pildorasinformaticas.es/",
+        "active": 1,
+        "file": "pildoras.png"
+    },
+    {
+        "id": 5,
+        "uri": "https://www.gmail.com/",
+        "active":1,
+        "file": "correo.png"
+    }
+]
